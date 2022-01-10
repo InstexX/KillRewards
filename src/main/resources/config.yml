@@ -1,0 +1,14 @@
+# -+---------------------------+- #
+# KILL REWARDS Plugin
+#
+# Version: 1.0
+# Developer: InstexX#9630
+# -+---------------------------+- #
+
+
+# Placeholder of Player = %player%
+# To send a message to a player u need to put "Message:" (Remember put the Capital Letters)
+
+  CommandOnKill:
+    - 'give %player% dirt 1'
+    - 'Message: &3You Killed a player'

@@ -1,0 +1,6 @@
+name: KillRewards
+version: '1.0'
+main: me.instexxdev.killrewards.KillRewards
+api-version: 1.16
+authors: [InstexX]
+description: Simple and Customizable Kill Rewards
